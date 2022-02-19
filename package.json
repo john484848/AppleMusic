@@ -1,0 +1,22 @@
+{
+  "name": "applemusic",
+  "version": "1.0.0",
+  "description": "AppleMusic Player For Linux and othe computers",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/john484848/AppleMusic.git"
+  },
+  "author": "Jonathan Kloepfer, Shane Stoll, Ben Denisson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/john484848/AppleMusic/issues"
+  },
+  "homepage": "https://github.com/john484848/AppleMusic#readme",
+  "devDependencies": {
+    "electron": "^17.0.1"
+  }
+}
